@@ -1,4 +1,4 @@
-package io.wooo.all.entity;
+package io.wooo.security.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

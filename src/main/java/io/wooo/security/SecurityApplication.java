@@ -1,12 +1,12 @@
-package io.wooo.all;
+package io.wooo.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecurityDemoApplication {
+public class SecurityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecurityDemoApplication.class, args);
+		SpringApplication.run(SecurityApplication.class, args);
 	}
 }
