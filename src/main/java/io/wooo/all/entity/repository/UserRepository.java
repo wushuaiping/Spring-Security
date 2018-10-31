@@ -1,6 +1,6 @@
-package io.wooo.securitydemo.entity.repository;
+package io.wooo.all.entity.repository;
 
-import io.wooo.securitydemo.entity.User;
+import io.wooo.all.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.CrudRepository;
 

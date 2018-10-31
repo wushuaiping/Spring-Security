@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.wooo</groupId>
-	<artifactId>security-demo</artifactId>
+	<artifactId>all</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>security-demo</name>
+	<name>all</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

@@ -1,7 +1,7 @@
-package io.wooo.securitydemo.service;
+package io.wooo.all.service;
 
-import io.wooo.securitydemo.entity.User;
-import io.wooo.securitydemo.entity.repository.UserRepository;
+import io.wooo.all.entity.User;
+import io.wooo.all.entity.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

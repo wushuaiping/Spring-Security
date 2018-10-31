@@ -1,7 +1,7 @@
-package io.wooo.securitydemo.controller;
+package io.wooo.all.controller;
 
-import io.wooo.securitydemo.entity.User;
-import io.wooo.securitydemo.service.UserService;
+import io.wooo.all.service.UserService;
+import io.wooo.all.entity.User;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
