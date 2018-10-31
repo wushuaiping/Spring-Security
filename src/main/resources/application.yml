@@ -2,7 +2,7 @@ server:
   port: 7071
 spring:
   datasource:
-    url: jdbc:mysql://45.76.27.195:3306/demo-user
+    url: jdbc:mysql://45.76.27.195:3306/demo-user?useUnicode=true&autoReconnect=true&rewriteBatchedStatements=TRUE&useSSL=false
     username: admin
     password: Wspdeqq123_321_admin
   jpa:
